@@ -17,4 +17,4 @@ output: html_document
 
 📍 Seoul <br>
 📱 (123) 456 - 7890 <br>
-✉️ [woojoonje@gmail.com](mailto:jappleseed@abc.edu) <br>
+✉️ [woojoonje@gmail.com](mailto:woojoonje@gmail.com) <br>
