@@ -13,8 +13,8 @@ output: html_document
 <br><br><br><br><br><br>
 
 #### **Joonje Woo**
-##### B.S. Candidate in Statistics&Data Science | University of California <img src="images/college_logo.png" style="width:35%;" align="right">
+##### B.S. Candidate in Statistics & Data Science | University of California, Los Angeles <img src="images/college_logo.png" style="width:35%;" align="right">
 
-📍 Seoul <br>
+📍 Los Angeles, CA <br>
 📱 (123) 456 - 7890 <br>
 ✉️ [woojoonje@gmail.com](mailto:woojoonje@gmail.com) <br>

@@ -13,13 +13,12 @@ output: html_document
 </p>
 <br>
 
-🚨*THIS IS A FICTIONAL PROFILE MEANT AS AN EXAMPLE FOR THE DATA KORLAB COMMUNITY.* 
 <br><br><br>
 👋🏽 Hello, my name is Joonje Woo. 
 
 🎓 Soon to be grad with a B.S. in Statistics&Data Science at University of California - Los Angeles. (May 2026)
 
-🌇 New York City Native, with a passion for developing and applying mathematical and statistical models to hands-on strategies that will grow business.
+🌇 Currently in Los Angeles CA, passionate in 
 
 📚 **Talk about your past experience, your present experience, and what you did (about 4-5 sentences)**
 

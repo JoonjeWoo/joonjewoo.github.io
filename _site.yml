@@ -7,8 +7,8 @@ output_dir: "."
 navbar:
   title: "Joonje Woo"
   left:
-    - text: "Tutorials"
-      href: tutorials.html
+    #- text: "Tutorials"
+      #href: tutorials.html
     - text: "Stat/ML"
       menu: 
       - text: "Predicting House Prices in Iowa"
@@ -26,20 +26,20 @@ navbar:
   right:
     - icon: fas fa-envelope
       href: contact.html
-    #- icon: ai-cv ai-lg
-    #  href: files/sample_resume.pdf
+    - icon: ai-cv ai-lg
+      href: files/joonjewoo_resume_202508.pdf
     - icon: fab fa-github
-      href: http://github.com/
+      href: http://github.com/joonjewoo
     - icon: fab fa-linkedin-in
-      href: https://www.linkedin.com/
-    - icon: ai-google-scholar ai-lg
-      href: https://scholar.google.com/
-    - icon: ai-researchgate ai-lg
-      href: https://www.researchgate.net/
+      href: https://www.linkedin.com/in/joonjewoo/
+    #- icon: ai-google-scholar ai-lg
+      #href: https://scholar.google.com/
+    #- icon: ai-researchgate ai-lg
+      #href: https://www.researchgate.net/
 output:
   html_document:
     theme: cosmo
     include:
-      # in_header: header.html
+      #in_header: header.html
       after_body: footer.html
     css: styles.css
