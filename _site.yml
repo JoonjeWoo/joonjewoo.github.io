@@ -11,8 +11,8 @@ navbar:
       #href: tutorials.html
     - text: "Stat/ML"
       menu: 
-      - text: "Predicting House Prices in Iowa"
-        href: stat1.html
+      - text: "Uncovering the Influence of Adrenaline and Age on Running Performance"
+        href: STATS101BFinalProject.pdf
       - text: "Prediting Airbnb Pricies in NYC"
         href: stat2.html
     - text: "DB/SQL"
