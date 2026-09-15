@@ -11,6 +11,7 @@ navbar:
       menu: 
       - text: "Uncovering the Influence of Adrenaline and Age on Running Performance"
         href: STATS101BFinalProject.pdf
+      - text: "Analysis on Women's Basketball"
   right:
     - icon: fas fa-envelope
       href: contact.html
